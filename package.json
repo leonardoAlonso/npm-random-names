@@ -1,0 +1,20 @@
+{
+  "name": "random-friend-names",
+  "version": "1.0.0",
+  "description": "Un random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Leonardo Alonso <leonardoalonsososa@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-name": "./bin/global.js",
+    "preferGlobal": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leonardoAlonso/npm-random-names"
+  }
+}
